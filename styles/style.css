@@ -197,6 +197,9 @@ h4 {
     font-size: 175%;
 }
 
+iframe  { 
+    padding: 1em;
+}
 .homeartikel { 
     background-color: white;
     border-radius: 20px;
